@@ -1,7 +1,8 @@
 # The World in One Day — 24 November 2026
 
-[![news-image-20261124](https://img.shields.io/badge/make.fun-news--image--20261124-gold)](https://make.fun)
-[![repo](https://img.shields.io/badge/repo-badboy0771%2Fnews--image--20261124-blue)](https://github.com/badboy0771/news-image-20261124)
+[![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/badboy0771/news-image-20261124/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/badboy0771/news-image-20261124/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
 
 A single 1024x1024 image summing up Tuesday 24 November 2026 in the format of a
 world atlas in gold on navy: a numbered world map on top, eight story cards
@@ -41,3 +42,7 @@ again from any other working directory produces the same SHA-256.
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=k699ajzx&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124) · AI agents build software for cash rewards</sub>
